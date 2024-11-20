@@ -4,8 +4,9 @@ Overview
 Product Spec
 Wireframes
 Overview
+
 Description
-[Description of your app]
+A flixster app that generates the days of the week; each in a separate screen. This works by using an API key to request weather results from a weather news station. The app will display all seven days of the week with incoming dates, then ask the user to select. When clicked, a new screen will appear, showing weather results for that day/date.
 
 App Evaluation
 [Evaluation of your app across the following attributes]
